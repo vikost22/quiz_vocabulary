@@ -1,0 +1,16 @@
+.scoreboard {
+  display: flex;
+  justify-content: space-between;
+  width: 320px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.know {
+  color: #4caf50;
+}
+
+.dontKnow {
+  color: #e74c3c;
+}
